@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{FAE82944-FE1A-4A53-B49F-D1D57C202AA6}]
+@="ClassFactory Project"
+
+[HKEY_CLASSES_ROOT\CLSID\{FAE82944-FE1A-4A53-B49F-D1D57C202AA6}\InprocServer32]
+@="C:\\Windows\\System32\\ClassFactoryServerWithRegFile.dll"
+
+
+
